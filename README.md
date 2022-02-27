@@ -45,9 +45,9 @@ This project is a responsive webpage with a toggle menu hamburguer button and it
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
-- [Javascript]
+- HTML
+- CSS
+- Javascript
 
 ## Features
 
