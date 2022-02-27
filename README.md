@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/D3ATHGUN/devchallenges-3-Interior-Consultant/blob/1e97117adda0b41d735a74ce6011370d22430048/Overview.PNG)
 
 
 This project is a responsive webpage with a toggle menu hamburguer button and it gave me the oportunity to improve my HTML, CSS and Javascript skills.
